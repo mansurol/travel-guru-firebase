@@ -1,0 +1,26 @@
+.main-slider{
+    display: flex;
+    float: left;
+    max-width: 20%;
+    margin-left: 4%;
+    margin-top: 20px;
+    border-radius: 200px;
+}
+.main-slider img{    
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+    height:100%;
+}
+.text h4{
+    position: absolute;
+}
+
+.card{
+    width: 12rem;
+    height:18.4rem;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    border: 2px solid gray;
+  }
+  
